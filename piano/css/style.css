@@ -3,9 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
-   background: burlywood;
+  background: burlywood;
 }
+
 .piano {
   width: 100%;
   height: 200px;
@@ -45,8 +47,9 @@ body {
 }
 
 .key.active {
-  background: #ccc;  
+  background: #ccc;
 }
+
 .key-b.active {
   background: #333;
 }
